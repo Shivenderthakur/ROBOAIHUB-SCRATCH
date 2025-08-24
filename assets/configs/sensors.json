@@ -1,0 +1,42 @@
+{
+  "sensors": [
+    {
+      "sensor_name": "light",
+      "is_binary": false,
+      "output_type": ["analog"],
+      "full_name": "LDR",
+      "image": "ldr.png",
+      "pins": [
+        {"name": "VCC", "type": "power", "color": [1, 0, 0, 1], "assignable": false},
+        {"name": "GND", "type": "ground", "color": [0, 0, 0, 1], "assignable": false},
+        {"name": "OUT", "type": "analog", "color": [1, 1, 0, 1], "assignable": true}
+      ]
+    },
+    {
+      "sensor_name": "motion",
+      "is_binary": true,
+      "output_type": ["digital"],
+      "full_name": "PIR Sensor",
+      "image": "pir.png",
+      "pins": [
+        {"name": "VCC", "type": "power", "color": [1, 0, 0, 1], "assignable": false},
+        {"name": "GND", "type": "ground", "color": [0, 0, 0, 1], "assignable": false},
+        {"name": "OUT", "type": "digital", "color": [0, 1, 0, 1], "assignable": true}
+      ]
+    },
+    {
+      "sensor_name": "ultrasonic",
+      "is_binary": false,
+      "output_type": ["digital"],
+      "full_name": "Ultrasonic Sensor",
+      "image": "ultrasonic.png",
+      "pin_info": "Trig: GPIO output, Echo: GPIO input\nVCC: 5V, GND: GND",
+      "pins": [
+        {"name": "VCC", "type": "power", "color": [1, 0, 0, 1], "assignable": false},
+        {"name": "GND", "type": "ground", "color": [0, 0, 0, 1], "assignable": false},
+        {"name": "Trig", "type": "digital", "color": [0, 1, 0, 1], "assignable": true},
+        {"name": "Echo", "type": "digital", "color": [1, 0.5, 0, 1], "assignable": true}
+      ]
+    }
+  ]
+}

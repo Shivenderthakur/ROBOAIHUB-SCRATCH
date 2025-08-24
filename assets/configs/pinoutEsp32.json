@@ -1,0 +1,178 @@
+[
+  {
+    "AbstractPinNumber": 1,
+    "GPIO": 15,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 2,
+    "GPIO": 2,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 3,
+    "GPIO": 4,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 4,
+    "GPIO": 16,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 5,
+    "GPIO": 17,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 6,
+    "GPIO": 5,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 7,
+    "GPIO": 18,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 8,
+    "GPIO": 19,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 9,
+    "GPIO": 21,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 10,
+    "GPIO": 23,
+    "PWMWrite": true,
+    "AnalogRead": false,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 11,
+    "GPIO": 13,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 12,
+    "GPIO": 12,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 13,
+    "GPIO": 14,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 14,
+    "GPIO": 27,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 15,
+    "GPIO": 26,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 16,
+    "GPIO": 25,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 17,
+    "GPIO": 33,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 18,
+    "GPIO": 32,
+    "PWMWrite": true,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": true
+  },
+  {
+    "AbstractPinNumber": 19,
+    "GPIO": 35,
+    "PWMWrite": false,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": false
+  },
+  {
+    "AbstractPinNumber": 20,
+    "GPIO": 34,
+    "PWMWrite": false,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": false
+  },
+  {
+    "AbstractPinNumber": 21,
+    "GPIO": 39,
+    "PWMWrite": false,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": false
+  },
+  {
+    "AbstractPinNumber": 22,
+    "GPIO": 36,
+    "PWMWrite": false,
+    "AnalogRead": true,
+    "DigitalRead": true,
+    "DigitalWrite": false
+  }
+]
